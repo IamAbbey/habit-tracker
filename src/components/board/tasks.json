@@ -1,0 +1,24 @@
+[
+  {
+    "id": "TASK-8782",
+    "name": "Read a book",
+    "goal": 31,
+    "priority": "high"
+  },
+  {
+    "id": "TASK-7873",
+    "name": "Clean the room",
+    "goal": 30
+  },
+  {
+    "id": "TASK-9873",
+    "name": "Go for walk",
+    "goal": 22
+  },
+  {
+    "id": "TASK-4873",
+    "name": "20 mins yoga",
+    "goal": 23,
+    "priority": "low"
+  }
+]

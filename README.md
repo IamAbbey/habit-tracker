@@ -4,6 +4,8 @@ Demo web app using React, Shadcn UI Charts and Tanstack Table with search and fi
 
 This project uses the brand new shadcn/ui charts library - https://ui.shadcn.com/charts.
 
+![Screenshot 2024-09-29 at 01 21 19](https://github.com/user-attachments/assets/f4671cdb-6f01-42ff-9ea9-435e993d0983)
+
 
 ## ✨ Features
 

@@ -14,7 +14,7 @@ function App() {
         <main className="w-full mx-auto max-w-screen-2xl">
           <nav className="w-full flex flex-row gap-2 justify-end">
             <a
-              href={"https://github.com/IamAbbey/github-star-history"}
+              href={"https://github.com/IamAbbey/habit-tracker"}
               target="_blank"
               rel="noreferrer"
             >
